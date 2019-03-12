@@ -1,6 +1,2 @@
 site_name: EFT Documents
-nav:
-    - Index(index.md): index.md
-    - Index(en/index.md): en/index.md
-    - Index(/docs/en/index.md): /docs/en/index.md
 theme: readthedocs
