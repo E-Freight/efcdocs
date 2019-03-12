@@ -1,2 +1,6 @@
-docs/
-    en/index.rst
+site_name: EFT Documents
+pages:
+-   [index.md, Index(index.md)]
+-   [en/index.md, Index(en/index.md)]
+-   [/docs/en/index.md, Index(/docs/en/index.md)]   
+theme: readthedocs
