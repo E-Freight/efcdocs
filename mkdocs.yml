@@ -1,2 +1,2 @@
-docs/
-    en/index.rst
+site_name: EFT Documents
+theme: readthedocs
