@@ -1,2 +1,11 @@
-docs/
-    index.md
+site_name: EFC Docs
+theme: readthedocs
+extra_javascript:
+    - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+
+markdown_extensions:
+  - mdx_math:
+      enable_dollar_delimiter: True  #for use of inline $..$
+
+pages:
+    - Home: 'index.md'
